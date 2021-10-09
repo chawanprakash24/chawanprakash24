@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashKhan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python 3.0
+- 🌱 I’m currently learning Unity | C# Scripting
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me -_-
 
